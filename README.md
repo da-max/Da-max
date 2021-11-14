@@ -5,7 +5,7 @@
 ## Who I am ?
 
 * French web developper;
-* Free-software lover;
+* Free software activist;
 * [Contribulle](https://contribulle.org) frontend developer;
 * Student in informatics at the [University of Paris](https://u-paris.fr);
 * [Fedora silverblue](https://silverblue.fedoraproject.org/) user.
