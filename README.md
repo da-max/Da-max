@@ -7,7 +7,8 @@
 * French web developper;
 * Free software activist;
 * [Contribulle](https://contribulle.org) frontend developer;
-* Student in informatics at the [University of Paris](https://u-paris.fr);
+* Developer for the [Discord Insoumis](https://discord-insoumis.fr/) (frontend developer for [TokTok](toktok.actionpopulaire.fr/));
+* Student in informatics at the [University Paris Cite](https://u-paris.fr);
 * [Fedora silverblue](https://silverblue.fedoraproject.org/) user.
 
 ## Technologies I use
