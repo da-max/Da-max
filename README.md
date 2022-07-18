@@ -4,11 +4,12 @@
 
 ## Who I am ?
 
-* French web developper;
-* Free software activist;
-* [Contribulle](https://contribulle.org) frontend developer;
-* Developer for the [Discord Insoumis](https://discord-insoumis.fr/) (frontend developer for [TokTok](toktok.actionpopulaire.fr/));
-* Student in informatics at the [University Paris Cite](https://u-paris.fr);
+* French web developper ;
+* Freelance web developer ;
+* Free software activist ;
+* [Contribulle](https://contribulle.org) frontend developer ;
+* Developer for the [Discord Insoumis](https://discord-insoumis.fr/) (frontend developer for [TokTok](toktok.actionpopulaire.fr/)) ;
+* Student in informatics at the [University Paris Cite](https://u-paris.fr) ;
 * [Fedora silverblue](https://silverblue.fedoraproject.org/) user.
 
 ## Technologies I use
@@ -28,11 +29,12 @@
 
 ## My links
 
-* My personnal website : [Fedabian.fr](https://fedabian.fr);
-* Gitlab : [@Damax](https://gitlab.com/Damax);
-* Framagit : [@Damax](https://framagit.com/Damax);
-* Mastodon : [@Damax@framapiaf.org](https://framapiaf.org/@Damax);
-* Twitter : [@Damaaax](https://twitter.com/Damaaax);
+* My personnal website : [Fedabian.fr](https://fedabian.fr) ;
+* [My reume](https://gitlab.com/api/v4/projects/27746956/packages/generic/cv/latest/cv.pdf) ;
+* Gitlab : [@Damax](https://gitlab.com/Damax) ;
+* Framagit : [@Damax](https://framagit.com/Damax) ;
+* Mastodon : [@Damax@framapiaf.org](https://framapiaf.org/@Damax) ;
+* Twitter : [@Damaaax](https://twitter.com/Damaaax) ;
 * Linkedin : [Maxime Ben Hassen](https://www.linkedin.com/in/maxime-ben-hassen-a9aa2a21a/).
 
 ## License
