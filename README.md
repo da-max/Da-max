@@ -4,8 +4,7 @@
 
 ## Who I am ?
 
-* French web developper ;
-* Freelance web developer ;
+* Freelance french web developer ;
 * Free software activist ;
 * [Contribulle](https://contribulle.org) frontend developer ;
 * Developer for the [Discord Insoumis](https://discord-insoumis.fr/) (frontend developer for [TokTok](toktok.actionpopulaire.fr/)) ;
