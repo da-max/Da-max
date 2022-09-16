@@ -8,7 +8,7 @@
 * Free software activist ;
 * [Contribulle](https://contribulle.org) frontend developer ;
 * Developer for the [Discord Insoumis](https://discord-insoumis.fr/) (frontend developer for [TokTok](toktok.actionpopulaire.fr/)) ;
-* Student in informatics at the [University Paris Cite](https://u-paris.fr) ;
+* Student in informatics at [University Paris Cite](https://u-paris.fr), currently on exchange in Quebec at [University Laval](https://ulaval.ca) ;
 * [Fedora silverblue](https://silverblue.fedoraproject.org/) user.
 
 ## Technologies I use
