@@ -4,10 +4,10 @@
 
 ## Who I am ?
 
-* Developper at the [Societe du Grand Paris](societedugrandparis.fr) ;
+* Developper at the [Societe du Grand Paris](https://societedugrandparis.fr) ;
 * Free software activist ;
 * [Contribulle](https://contribulle.org) frontend developer ;
-* Developer for the [Discord Insoumis](https://discord-insoumis.fr/) (frontend developer for [TokTok](toktok.actionpopulaire.fr/)) ;
+* Developer for the [Discord Insoumis](https://discord-insoumis.fr/) (frontend developer for [TokTok](https://toktok.actionpopulaire.fr/)) ;
 * Student in informatics at [University Paris Cite](https://u-paris.fr) ;
 * [Fedora silverblue](https://silverblue.fedoraproject.org/) user.
 
