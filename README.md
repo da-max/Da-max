@@ -4,11 +4,11 @@
 
 ## Who I am ?
 
-* Freelance french web developer ;
+* Developper at the [Societe du Grand Paris](societedugrandparis.fr) ;
 * Free software activist ;
 * [Contribulle](https://contribulle.org) frontend developer ;
 * Developer for the [Discord Insoumis](https://discord-insoumis.fr/) (frontend developer for [TokTok](toktok.actionpopulaire.fr/)) ;
-* Student in informatics at [University Paris Cite](https://u-paris.fr), currently on exchange in Quebec at [University Laval](https://ulaval.ca) ;
+* Student in informatics at [University Paris Cite](https://u-paris.fr) ;
 * [Fedora silverblue](https://silverblue.fedoraproject.org/) user.
 
 ## Technologies I use
@@ -20,10 +20,11 @@
 | <img src="assets/python-brands.svg" alt="python-brands" width="16"> Python | <img src="assets/js-brands.svg" alt="js-brands" width="16"> JavaScript               |
 | <img src="assets/django-icons.png" alt="django-icons" width="16"> Django   | <img src="assets/vuejs-brands.svg" alt="vuejs-brands" width="16"> VueJs              |
 | <img src="assets/flask-icons.png" alt="flask-icons" width="16"> Flask      | <img src="assets/typescript-icons.png" alt="typescript-icons" width="16"> TypeScript |
+| Golang                                                                     | React (and React-Native)                                                             |
 
 ### Tools
 
-* <img src="assets/docker-brands.svg" alt="docker-brands" width="16"> Docker (or [Podman](https://podman.io/) 💜);
+* <img src="assets/docker-brands.svg" alt="docker-brands" width="16"> Docker (or [Podman](https://podman.io/) 💜) ;
 * <img src="assets/gitlab-brands.svg" alt="gitlab-brands" width="16"> Gitlab-ci.
 
 ## My links
