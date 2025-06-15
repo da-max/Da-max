@@ -1,3 +1,5 @@
+[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
+
 # Hi there 👋
 
 ![Da-max's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=da-max&langs_count=8&layout=compact&theme=cobalt2)
