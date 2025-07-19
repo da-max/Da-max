@@ -1,4 +1,4 @@
-[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
+<!-- [![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more) -->
 
 # Hi there 👋
 
