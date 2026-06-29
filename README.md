@@ -9,7 +9,7 @@
 * Developper at the [Societe des grands projets](https://sgp.fr) ;
 * Free software activist ;
 * [Contribulle](https://contribulle.org) frontend developer ;
-* Developer for the [Discord Insoumis](https://discord-barricade.fr/) (lead developer for [TokTok](https://toktok.actionpopulaire.fr/)) ;
+* Treasurer and lead dev for [La Manufacture des lamas](https://la-manufacture.io/) ([TokTok](https://toktok.actionpopulaire.fr/)) ;
 * Former student in computer science at [University Paris Cite](https://u-paris.fr) ;
 * [Fedora silverblue](https://silverblue.fedoraproject.org/) user.
 
